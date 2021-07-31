@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GulnazSerikbay
-- 🌱 I’m currently studying Computer Science.
-- 💞️ Open to collaboration
+- 👋 @GulnazSerikbay
+- 🌱 CS girl.
+- 💞️ Open to collaboration, new projects!
 - 📫 serikbaygulnaz03@gmail.com
 
 <!---
