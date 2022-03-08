@@ -1,7 +1,7 @@
 - 👋 @GulnazSerikbay
 - 🌱 CS girl.
 - 💞️ Open to collaboration, new projects!
-- 📫 serikbaygulnaz03@gmail.com
+- 📫 gserikba@andrew.cmu.edu
 
 <!---
 GulnazSerikbay/GulnazSerikbay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
