@@ -1,5 +1,5 @@
 - 👋 @GulnazSerikbay
-- 🌱 CS kid.
+- 🌱 CS kid, Software Engineering Intern
 - 💞️ Open to collaboration, new projects!
 - 📫 gulnaz@cmu.edu
 - Interests: Computer Vision, Neural Computation, Web Programming, Image Processing
