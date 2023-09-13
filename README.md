@@ -1,8 +1,8 @@
 - 👋 @GulnazSerikbay
-- 🌱 CS kid, Software Engineering Intern
+- 🌱 CS kid @CMU
 - 💞️ Open to collaboration, new projects!
 - 📫 gulnaz@cmu.edu
-- Interests: Computer Vision, Neural Computation, Web Programming, Image Processing
+- Interests: Computer Vision, Neural Computation, Web Programming
 
 <!---
 GulnazSerikbay/GulnazSerikbay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
