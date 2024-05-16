@@ -1,7 +1,7 @@
 - 👋 @GulnazSerikbay
 - 🌱 CS kid @CMU
 - 💞️ Open to collaboration, new projects!
-- 📫 gulnaz@cmu.edu
+- 📫 gulnaz@cmu.edu, serikbaygulnaz03@gmail.com
 - Interests: Computer Vision, Neural Computation, Web Development
 
 <!---
